@@ -9,7 +9,7 @@
   <div
     class="flex gap-5 justify-between w-full max-md:flex-wrap max-md:max-w-full"
   >
-    <div class="flex gap-1 px-px my-auto">
+    <div class="flex gap-1 p-5 my-auto">
       <img
         loading="lazy"
         alt="logo"
@@ -23,7 +23,7 @@
         class="my-auto aspect-[3.57] fill-zinc-800 w-[76px]"
       />
     </div>
-    <div class="flex gap-5 justify-between max-md:flex-wrap max-md:max-w-full">
+    <div class=" hidden md:flex gap-5 justify-between max-md:flex-wrap max-md:max-w-full">
       <div
         class="flex gap-5 justify-between my-auto text-sm leading-5 whitespace-nowrap max-md:flex-wrap max-md:max-w-full"
       >
